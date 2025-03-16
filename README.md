@@ -1,14 +1,14 @@
-# Comprehensive Project in Specialized Direction Course Assignments
+# Diagnosis of Diabetic Retinopathy
 
 ## 仓库名称
 
-Comprehensive_Project_in_Specialized_Direction_Course_Assignments
+Diagnosis_of_Diabetic_Retinopathy
 
 ## 仓库简介
 
-A collection of my comprehensive project in specialized direction course assignments.
+Diagnosis of Diabetic Retinopathy.
 
-2025年同济大学专业方向综合项目课程作业合集。
+糖尿病性视网膜病变诊断。
 
 > ***Relevant course***
 > * Comprehensive Project in Specialized Direction 2025 (2025年同济大学专业方向综合项目)
