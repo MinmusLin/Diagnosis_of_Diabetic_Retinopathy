@@ -15,6 +15,41 @@ Diagnosis of Diabetic Retinopathy.
 
 ## 仓库组成
 
+* `/DiabRetina_AI_Knowledge_Base`
+DiabRetina AI 知识库
+
+* `Presentation_Week02.pptx`
+第 2 周汇报
+
+* `Presentation_Week03.pptx`
+第 3 周汇报
+
+* `Presentation_Week05.pptx`
+第 5 周汇报
+
+* `Presentation_Week07.pptx`
+第 7 周汇报
+
+* `Presentation_Week09.pptx`
+第 9 周汇报
+
+* `Presentation_Week12.pptx`
+第 12 周汇报
+
+* `Presentation_Week14.pptx`
+第 14 周汇报
+
+* `Presentation_Week16.pptx`
+第 16 周汇报
+
+## 相关仓库
+
+* [DiabRetina AI Backend](https://github.com/MinmusLin/DiabRetina_AI_Backend)
+DiabRetina AI：糖尿病性视网膜病变诊断智能平台（后端应用程序）
+
+* [DiabRetina AI Frontend](https://github.com/MinmusLin/DiabRetina_AI_Frontend)
+DiabRetina AI：糖尿病性视网膜病变诊断智能平台（前端应用程序）
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
@@ -23,4 +58,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2025年3月16日
+2025年6月11日
