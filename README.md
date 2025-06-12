@@ -18,6 +18,9 @@ Diagnosis of Diabetic Retinopathy.
 * `/DiabRetina_AI_Knowledge_Base`
 DiabRetina AI 知识库
 
+* `Diagnostic_Report_Example.pdf`
+诊断分析报告示例
+
 * `Presentation_Week02.pptx`
 第 2 周汇报
 
@@ -42,6 +45,9 @@ DiabRetina AI 知识库
 * `Presentation_Week16.pptx`
 第 16 周汇报
 
+* `Project_Notes.pdf`
+项目笔记
+
 ## 相关仓库
 
 * [DiabRetina AI Backend](https://github.com/MinmusLin/DiabRetina_AI_Backend)
@@ -58,4 +64,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2025年6月11日
+2025年6月12日
