@@ -45,8 +45,8 @@ DiabRetina AI 知识库
 * `Presentation_Week16.pptx`
 第 16 周汇报
 
-* `Project_Notes.pdf`
-项目笔记
+* `Report.pdf`
+项目报告
 
 ## 相关仓库
 
@@ -64,4 +64,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2025年6月12日
+2025年6月19日
